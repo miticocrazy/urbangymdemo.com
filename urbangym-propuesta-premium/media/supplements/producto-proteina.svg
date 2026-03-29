@@ -1,0 +1,9 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" fill="#090B0A"/>
+  <rect x="34" y="34" width="1132" height="1132" rx="24" fill="#131715" stroke="#D8FF47" stroke-opacity="0.26" stroke-width="2"/>
+  <rect x="420" y="250" width="360" height="520" rx="36" fill="#1A211D" stroke="#D8FF47" stroke-opacity="0.32" stroke-width="2"/>
+  <rect x="470" y="190" width="260" height="110" rx="28" fill="#1A211D" stroke="#D8FF47" stroke-opacity="0.24" stroke-width="2"/>
+  <text x="130" y="930" fill="#D8FF47" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="4">PRODUCTO 01</text>
+  <text x="130" y="1010" fill="#F6F0E1" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="72">PROTEINA</text>
+  <text x="130" y="1088" fill="#B9B29F" font-family="Arial, Helvetica, sans-serif" font-size="26">Sustituye por una foto real del producto que quieras destacar.</text>
+</svg>

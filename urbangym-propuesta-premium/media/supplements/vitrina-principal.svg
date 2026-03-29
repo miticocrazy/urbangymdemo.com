@@ -1,0 +1,10 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0A0C0B"/>
+  <rect x="40" y="40" width="1520" height="820" rx="24" fill="#141917" stroke="#D8FF47" stroke-opacity="0.24" stroke-width="2"/>
+  <path d="M0 660L1600 280" stroke="#FF5B36" stroke-opacity="0.09" stroke-width="22"/>
+  <path d="M-100 820L1500 440" stroke="#D8FF47" stroke-opacity="0.08" stroke-width="30"/>
+  <text x="120" y="180" fill="#D8FF47" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="4">SUPPLEMENTS</text>
+  <text x="120" y="334" fill="#F6F0E1" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="88">VITRINA</text>
+  <text x="120" y="422" fill="#F6F0E1" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="88">PRINCIPAL</text>
+  <text x="120" y="530" fill="#B9B29F" font-family="Arial, Helvetica, sans-serif" font-size="28">Usa esta zona para enseñar mostrador, lineal o una composición potente de producto.</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0A0C0B"/>
+  <rect x="44" y="44" width="1512" height="812" rx="24" fill="#131816" stroke="#D8FF47" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M0 740L1600 240" stroke="#D8FF47" stroke-opacity="0.08" stroke-width="28"/>
+  <path d="M-80 860L1520 360" stroke="#FF5B36" stroke-opacity="0.10" stroke-width="18"/>
+  <rect x="140" y="180" width="220" height="48" rx="10" fill="#D8FF47" fill-opacity="0.14" stroke="#D8FF47" stroke-opacity="0.35"/>
+  <text x="176" y="212" fill="#F6F0E1" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">REEL PRINCIPAL</text>
+  <text x="140" y="360" fill="#F6F0E1" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="78">VIDEO VERTICAL</text>
+  <text x="140" y="444" fill="#F6F0E1" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="78">URBAN GYM</text>
+  <text x="140" y="528" fill="#B9B29F" font-family="Arial, Helvetica, sans-serif" font-size="28">Sustituye este poster por una captura o vídeo del gimnasio en acción.</text>
+  <circle cx="1220" cy="450" r="118" fill="#D8FF47" fill-opacity="0.12" stroke="#D8FF47" stroke-opacity="0.42" stroke-width="2"/>
+  <path d="M1188 392L1278 450L1188 508V392Z" fill="#F6F0E1"/>
+</svg>

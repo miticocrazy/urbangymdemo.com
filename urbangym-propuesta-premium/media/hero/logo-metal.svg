@@ -1,0 +1,53 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="outerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 180) rotate(46) scale(320)">
+      <stop stop-color="#44484D"/>
+      <stop offset="0.45" stop-color="#171A1E"/>
+      <stop offset="1" stop-color="#090B0D"/>
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="114" y1="92" x2="532" y2="548" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7D848B"/>
+      <stop offset="0.45" stop-color="#2E3338"/>
+      <stop offset="1" stop-color="#979DA4"/>
+    </linearGradient>
+    <linearGradient id="metalGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#AAB0B6"/>
+      <stop offset="0.3" stop-color="#5E646B"/>
+      <stop offset="0.7" stop-color="#1C2024"/>
+      <stop offset="1" stop-color="#9AA1A8"/>
+    </linearGradient>
+    <filter id="shadow" x="52" y="48" width="536" height="548" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.48"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <circle cx="320" cy="312" r="258" fill="url(#outerGlow)"/>
+    <circle cx="320" cy="312" r="258" stroke="#060708" stroke-width="12"/>
+    <circle cx="320" cy="312" r="242" stroke="url(#ringGrad)" stroke-width="7"/>
+    <circle cx="320" cy="312" r="220" fill="#111418" stroke="#23272C" stroke-width="2"/>
+    <ellipse cx="320" cy="246" rx="145" ry="96" fill="url(#metalGrad)" fill-opacity="0.06"/>
+
+    <g fill="url(#metalGrad)" stroke="#14181C" stroke-width="2">
+      <rect x="120" y="292" width="78" height="18" rx="9"/>
+      <rect x="442" y="292" width="78" height="18" rx="9"/>
+      <rect x="145" y="238" width="16" height="126" rx="8"/>
+      <rect x="162" y="222" width="22" height="158" rx="10"/>
+      <rect x="185" y="208" width="28" height="186" rx="12"/>
+      <rect x="214" y="224" width="22" height="154" rx="10"/>
+      <rect x="404" y="224" width="22" height="154" rx="10"/>
+      <rect x="427" y="208" width="28" height="186" rx="12"/>
+      <rect x="456" y="222" width="22" height="158" rx="10"/>
+      <rect x="479" y="238" width="16" height="126" rx="8"/>
+    </g>
+
+    <g fill="url(#metalGrad)">
+      <text x="320" y="315" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="92" letter-spacing="1">URBAN</text>
+      <text x="320" y="385" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="62" letter-spacing="2">GYM</text>
+    </g>
+    <g opacity="0.35" fill="#080A0C">
+      <text x="323" y="318" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="92" letter-spacing="1">URBAN</text>
+      <text x="323" y="388" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="62" letter-spacing="2">GYM</text>
+    </g>
+  </g>
+</svg>
